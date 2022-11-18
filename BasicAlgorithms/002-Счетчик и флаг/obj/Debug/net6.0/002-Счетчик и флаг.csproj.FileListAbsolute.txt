@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\002-Счетчик и флаг.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\002-Счетчик и флаг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\002-Счетчик и флаг.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\002-Счетчик и флаг.AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\002-Счетчик и флаг.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\bin\Debug\net6.0\002-Счетчик и флаг.exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\bin\Debug\net6.0\002-Счетчик и флаг.deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\bin\Debug\net6.0\002-Счетчик и флаг.runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\bin\Debug\net6.0\002-Счетчик и флаг.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\bin\Debug\net6.0\002-Счетчик и флаг.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\002-Счетчик и флаг.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\refint\002-Счетчик и флаг.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\002-Счетчик и флаг.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\002-Счетчик и флаг.genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\002-Счетчик и флаг\obj\Debug\net6.0\ref\002-Счетчик и флаг.dll

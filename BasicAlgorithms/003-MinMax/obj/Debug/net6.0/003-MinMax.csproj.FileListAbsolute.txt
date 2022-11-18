@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\bin\Debug\net6.0\003-MinMax.exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\bin\Debug\net6.0\003-MinMax.deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\bin\Debug\net6.0\003-MinMax.runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\bin\Debug\net6.0\003-MinMax.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\bin\Debug\net6.0\003-MinMax.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\003-MinMax.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\003-MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\003-MinMax.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\003-MinMax.AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\003-MinMax.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\003-MinMax.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\refint\003-MinMax.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\003-MinMax.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\003-MinMax.genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\003-MinMax\obj\Debug\net6.0\ref\003-MinMax.dll

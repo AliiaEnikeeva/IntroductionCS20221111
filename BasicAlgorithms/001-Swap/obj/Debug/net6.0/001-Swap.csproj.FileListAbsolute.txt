@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\bin\Debug\net6.0\001-Swap.exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\bin\Debug\net6.0\001-Swap.deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\bin\Debug\net6.0\001-Swap.runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\bin\Debug\net6.0\001-Swap.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\bin\Debug\net6.0\001-Swap.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\001-Swap.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\001-Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\001-Swap.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\001-Swap.AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\001-Swap.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\001-Swap.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\refint\001-Swap.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\001-Swap.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\001-Swap.genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\001-Swap\obj\Debug\net6.0\ref\001-Swap.dll
