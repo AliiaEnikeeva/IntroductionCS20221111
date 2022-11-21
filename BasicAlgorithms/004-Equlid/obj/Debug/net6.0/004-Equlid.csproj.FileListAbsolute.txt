@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\bin\Debug\net6.0\004-Equlid.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\refint\004-Equlid.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\004-Equlid.genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\004-Equlid\obj\Debug\net6.0\ref\004-Equlid.dll
