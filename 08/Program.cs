@@ -10,7 +10,7 @@ int i=-N;
 }
 */
 
-
+// 8. Вывести на экран числа от -N до N
 //Вариант Андрея
 int N=Convert.ToInt32(Console.ReadLine())
 for (int i=-N;i<=N;i++)
