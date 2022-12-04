@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\bin\Debug\net6.0\009-RandomArray(Массив случайных чисел).exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\bin\Debug\net6.0\009-RandomArray(Массив случайных чисел).deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\bin\Debug\net6.0\009-RandomArray(Массив случайных чисел).runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\bin\Debug\net6.0\009-RandomArray(Массив случайных чисел).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\bin\Debug\net6.0\009-RandomArray(Массив случайных чисел).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\009-RandomArray(Массив случайных чисел).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\009-RandomArray(Массив случайных чисел).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\009-RandomArray(Массив случайных чисел).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\009-RandomArray(Массив случайных чисел).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\009-RandomArray(Массив случайных чисел).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\009-RandomArray(Массив случайных чисел).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\refint\009-RandomArray(Массив случайных чисел).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\009-RandomArray(Массив случайных чисел).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\009-RandomArray(Массив случайных чисел).genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\009-RandomArray(Массив случайных чисел)\obj\Debug\net6.0\ref\009-RandomArray(Массив случайных чисел).dll

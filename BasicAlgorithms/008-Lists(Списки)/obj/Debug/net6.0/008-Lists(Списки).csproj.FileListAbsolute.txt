@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\bin\Debug\net6.0\008-Lists(Списки).exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\bin\Debug\net6.0\008-Lists(Списки).deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\bin\Debug\net6.0\008-Lists(Списки).runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\bin\Debug\net6.0\008-Lists(Списки).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\bin\Debug\net6.0\008-Lists(Списки).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\008-Lists(Списки).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\008-Lists(Списки).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\008-Lists(Списки).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\008-Lists(Списки).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\008-Lists(Списки).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\008-Lists(Списки).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\refint\008-Lists(Списки).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\008-Lists(Списки).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\008-Lists(Списки).genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\008-Lists(Списки)\obj\Debug\net6.0\ref\008-Lists(Списки).dll

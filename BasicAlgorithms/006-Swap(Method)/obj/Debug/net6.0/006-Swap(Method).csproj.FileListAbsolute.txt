@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\bin\Debug\net6.0\006-Swap(Method).exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\bin\Debug\net6.0\006-Swap(Method).deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\bin\Debug\net6.0\006-Swap(Method).runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\bin\Debug\net6.0\006-Swap(Method).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\bin\Debug\net6.0\006-Swap(Method).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\006-Swap(Method).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\006-Swap(Method).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\006-Swap(Method).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\006-Swap(Method).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\006-Swap(Method).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\006-Swap(Method).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\refint\006-Swap(Method).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\006-Swap(Method).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\006-Swap(Method).genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\006-Swap(Method)\obj\Debug\net6.0\ref\006-Swap(Method).dll
