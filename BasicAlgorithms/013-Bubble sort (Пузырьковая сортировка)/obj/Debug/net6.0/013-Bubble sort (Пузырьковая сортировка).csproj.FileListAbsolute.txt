@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\bin\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\bin\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\bin\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\bin\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\bin\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\refint\013-Bubble sort (Пузырьковая сортировка).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\013-Bubble sort (Пузырьковая сортировка).genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (Пузырьковая сортировка)\obj\Debug\net6.0\ref\013-Bubble sort (Пузырьковая сортировка).dll

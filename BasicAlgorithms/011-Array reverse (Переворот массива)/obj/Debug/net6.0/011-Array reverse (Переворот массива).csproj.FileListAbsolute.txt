@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\011-Array reverse (Переворот массива).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\011-Array reverse (Переворот массива).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\011-Array reverse (Переворот массива).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\011-Array reverse (Переворот массива).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\011-Array reverse (Переворот массива).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\bin\Debug\net6.0\011-Array reverse (Переворот массива).exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\bin\Debug\net6.0\011-Array reverse (Переворот массива).deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\bin\Debug\net6.0\011-Array reverse (Переворот массива).runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\bin\Debug\net6.0\011-Array reverse (Переворот массива).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\bin\Debug\net6.0\011-Array reverse (Переворот массива).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\011-Array reverse (Переворот массива).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\refint\011-Array reverse (Переворот массива).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\011-Array reverse (Переворот массива).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\011-Array reverse (Переворот массива).genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\011-Array reverse (Переворот массива)\obj\Debug\net6.0\ref\011-Array reverse (Переворот массива).dll

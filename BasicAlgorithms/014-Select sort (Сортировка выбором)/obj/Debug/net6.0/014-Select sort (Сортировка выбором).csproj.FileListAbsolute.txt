@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\bin\Debug\net6.0\014-Select sort (Сортировка выбором).exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\bin\Debug\net6.0\014-Select sort (Сортировка выбором).deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\bin\Debug\net6.0\014-Select sort (Сортировка выбором).runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\bin\Debug\net6.0\014-Select sort (Сортировка выбором).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\bin\Debug\net6.0\014-Select sort (Сортировка выбором).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\014-Select sort (Сортировка выбором).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\014-Select sort (Сортировка выбором).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\014-Select sort (Сортировка выбором).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\014-Select sort (Сортировка выбором).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\014-Select sort (Сортировка выбором).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\014-Select sort (Сортировка выбором).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\refint\014-Select sort (Сортировка выбором).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\014-Select sort (Сортировка выбором).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\014-Select sort (Сортировка выбором).genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\014-Select sort (Сортировка выбором)\obj\Debug\net6.0\ref\014-Select sort (Сортировка выбором).dll

@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\013-Bubble sort (через Flag).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\013-Bubble sort (через Flag).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\013-Bubble sort (через Flag).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\013-Bubble sort (через Flag).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\013-Bubble sort (через Flag).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\bin\Debug\net6.0\013-Bubble sort (через Flag).exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\bin\Debug\net6.0\013-Bubble sort (через Flag).deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\bin\Debug\net6.0\013-Bubble sort (через Flag).runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\bin\Debug\net6.0\013-Bubble sort (через Flag).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\bin\Debug\net6.0\013-Bubble sort (через Flag).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\013-Bubble sort (через Flag).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\refint\013-Bubble sort (через Flag).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\013-Bubble sort (через Flag).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\013-Bubble sort (через Flag).genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\013-Bubble sort (через Flag)\obj\Debug\net6.0\ref\013-Bubble sort (через Flag).dll
