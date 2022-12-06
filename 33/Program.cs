@@ -1,8 +1,8 @@
 ﻿// 33. Задать массив из 8 элементов, заполненных нулями и единицами вывести их на экран
-string[] strings = {"afaf", "fsf"};
+/*string[] strings = {"afaf", "fsf"};
 char[] chars = {'s', 's'};
 bool[] bools = {true, false};
-
+*/
 int[] arrays; //null
 int[] arr = new int[8];
 
