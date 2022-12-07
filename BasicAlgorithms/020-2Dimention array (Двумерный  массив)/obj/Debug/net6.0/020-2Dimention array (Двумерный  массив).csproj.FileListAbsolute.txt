@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\bin\Debug\net6.0\020-2Dimention array (Двумерный  массив).exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\bin\Debug\net6.0\020-2Dimention array (Двумерный  массив).deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\bin\Debug\net6.0\020-2Dimention array (Двумерный  массив).runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\bin\Debug\net6.0\020-2Dimention array (Двумерный  массив).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\bin\Debug\net6.0\020-2Dimention array (Двумерный  массив).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\020-2Dimention array (Двумерный  массив).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\020-2Dimention array (Двумерный  массив).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\020-2Dimention array (Двумерный  массив).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\020-2Dimention array (Двумерный  массив).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\020-2Dimention array (Двумерный  массив).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\020-2Dimention array (Двумерный  массив).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\refint\020-2Dimention array (Двумерный  массив).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\020-2Dimention array (Двумерный  массив).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\020-2Dimention array (Двумерный  массив).genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-2Dimention array (Двумерный  массив)\obj\Debug\net6.0\ref\020-2Dimention array (Двумерный  массив).dll

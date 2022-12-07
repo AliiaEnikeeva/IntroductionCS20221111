@@ -4,7 +4,7 @@ int[] RandomIntArray(int N,int min, int max)
     int[] a=new int[N]; // описываем массив и вставляем переменную N
 Random random=new Random(); // заполняем массив через генерацию случайных чисел
 for(int i=0;i<a.Length;i++)
-    a[i]=random.Next(0,200);
+    a[i]=random.Next(0,max+1);
     return a; // возвращаем результат
 }
 
@@ -25,7 +25,7 @@ int BinSearch(int[] a, int find) //передаем некоторый масс�
     while(a[i]!=find && left<right )
     {
             if (find>a[i])
-                left=i;
+                left=i+1; // добавили +1 чтоб не было ошибки
             else
                 right=i;
             i=left+(right-left)/2; 
@@ -35,8 +35,9 @@ int BinSearch(int[] a, int find) //передаем некоторый масс�
     else
         return i;
 }
+//Console.ReadLine();
 int find=20;
-int[] a=RandomIntArray(10,0,10);
+int[] a=RandomIntArray(10,15,25);
 a[6]=find;
 Array.Sort(a); //отсортировать массив
 PrintArray(a);

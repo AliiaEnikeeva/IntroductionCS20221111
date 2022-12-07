@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\020-Сортировка двумерного массива.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\020-Сортировка двумерного массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\020-Сортировка двумерного массива.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\020-Сортировка двумерного массива.AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\020-Сортировка двумерного массива.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\bin\Debug\net6.0\020-Сортировка двумерного массива.exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\bin\Debug\net6.0\020-Сортировка двумерного массива.deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\bin\Debug\net6.0\020-Сортировка двумерного массива.runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\bin\Debug\net6.0\020-Сортировка двумерного массива.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\bin\Debug\net6.0\020-Сортировка двумерного массива.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\020-Сортировка двумерного массива.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\refint\020-Сортировка двумерного массива.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\020-Сортировка двумерного массива.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\020-Сортировка двумерного массива.genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\020-Поиск в двумерном массиве\obj\Debug\net6.0\ref\020-Сортировка двумерного массива.dll
