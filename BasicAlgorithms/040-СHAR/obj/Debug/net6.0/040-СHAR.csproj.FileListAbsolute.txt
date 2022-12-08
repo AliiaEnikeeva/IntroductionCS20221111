@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\bin\Debug\net6.0\040-СHAR.exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\bin\Debug\net6.0\040-СHAR.deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\bin\Debug\net6.0\040-СHAR.runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\bin\Debug\net6.0\040-СHAR.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\bin\Debug\net6.0\040-СHAR.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\040-СHAR.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\040-СHAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\040-СHAR.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\040-СHAR.AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\040-СHAR.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\040-СHAR.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\refint\040-СHAR.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\040-СHAR.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\040-СHAR.genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\040-СHAR\obj\Debug\net6.0\ref\040-СHAR.dll
