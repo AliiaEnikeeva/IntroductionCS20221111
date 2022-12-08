@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "030-Loop with recursy (Цикл с помощью рекурсии)/1.0.0": {
+        "runtime": {
+          "030-Loop with recursy (Цикл с помощью рекурсии).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "030-Loop with recursy (Цикл с помощью рекурсии)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

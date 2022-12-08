@@ -1,0 +1,5 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\031-Factorial (Факториал через рекурсию)\obj\Debug\net6.0\031-Factorial (Факториал через рекурсию).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\031-Factorial (Факториал через рекурсию)\obj\Debug\net6.0\031-Factorial (Факториал через рекурсию).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\031-Factorial (Факториал через рекурсию)\obj\Debug\net6.0\031-Factorial (Факториал через рекурсию).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\031-Factorial (Факториал через рекурсию)\obj\Debug\net6.0\031-Factorial (Факториал через рекурсию).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\031-Factorial (Факториал через рекурсию)\obj\Debug\net6.0\031-Factorial (Факториал через рекурсию).csproj.CoreCompileInputs.cache

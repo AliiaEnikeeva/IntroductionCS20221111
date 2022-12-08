@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\bin\Debug\net6.0\032-Sum Digital (Сумма цифр).exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\bin\Debug\net6.0\032-Sum Digital (Сумма цифр).deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\bin\Debug\net6.0\032-Sum Digital (Сумма цифр).runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\bin\Debug\net6.0\032-Sum Digital (Сумма цифр).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\bin\Debug\net6.0\032-Sum Digital (Сумма цифр).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\032-Sum Digital (Сумма цифр).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\032-Sum Digital (Сумма цифр).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\032-Sum Digital (Сумма цифр).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\032-Sum Digital (Сумма цифр).AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\032-Sum Digital (Сумма цифр).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\032-Sum Digital (Сумма цифр).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\refint\032-Sum Digital (Сумма цифр).dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\032-Sum Digital (Сумма цифр).pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\032-Sum Digital (Сумма цифр).genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\032-Sum Digital (Сумма цифр)\obj\Debug\net6.0\ref\032-Sum Digital (Сумма цифр).dll
