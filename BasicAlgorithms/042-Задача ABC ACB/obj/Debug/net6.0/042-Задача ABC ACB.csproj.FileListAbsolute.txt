@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\bin\Debug\net6.0\042-Задача ABC ACB.exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\bin\Debug\net6.0\042-Задача ABC ACB.deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\bin\Debug\net6.0\042-Задача ABC ACB.runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\bin\Debug\net6.0\042-Задача ABC ACB.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\bin\Debug\net6.0\042-Задача ABC ACB.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\042-Задача ABC ACB.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\042-Задача ABC ACB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\042-Задача ABC ACB.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\042-Задача ABC ACB.AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\042-Задача ABC ACB.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\042-Задача ABC ACB.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\refint\042-Задача ABC ACB.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\042-Задача ABC ACB.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\042-Задача ABC ACB.genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\BasicAlgorithms\042-Задача ABC ACB\obj\Debug\net6.0\ref\042-Задача ABC ACB.dll
