@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\bin\Debug\net6.0\86.exe
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\bin\Debug\net6.0\86.deps.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\bin\Debug\net6.0\86.runtimeconfig.json
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\bin\Debug\net6.0\86.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\bin\Debug\net6.0\86.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\86.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\86.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\86.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\86.AssemblyInfo.cs
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\86.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\86.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\refint\86.dll
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\86.pdb
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\86.genruntimeconfig.cache
+C:\Users\asus\Desktop\EAR CS\IntroductionCS20221111\86\obj\Debug\net6.0\ref\86.dll
